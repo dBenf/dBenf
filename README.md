@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Domenico</h1>
-<h3 align="center">A Data Engineering Students in University of Naples Federico II</h3>
+<h3 align="center">A Data Engineering MSc. Students in University of Naples Federico II</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dbenf&label=Profile%20views&color=0e75b6&style=flat" alt="dbenf" /> </p>
 
