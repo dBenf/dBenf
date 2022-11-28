@@ -7,8 +7,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dbenf&label=Profile%20views&color=0e75b6&style=flat" alt="dbenf" /> </p>
 
-- 🔭 I’m currently working on **Computer System Design**
+- 🔭 I'm currently working on **Computer System Design** exams
 
+- 📚 I'm working on my **Master od Science** thesis 
+ 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/dBenf?tab=repositories)
 
 - 📫 How to reach me **domy.benf@gmail.com**
