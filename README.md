@@ -9,7 +9,7 @@
 
 - 🔭 I'm currently working on **Computer System Design** exams
 
-- 📚 I'm working on my **Master od Science** thesis 
+- 📚 I'm working on my **Master of Science** thesis 
  
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/dBenf?tab=repositories)
 
