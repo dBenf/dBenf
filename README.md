@@ -14,7 +14,7 @@
 - 📫 How to reach me **domy.benf@gmail.com**
 
 <h3 align="left">View my papers:</h3>
-<a href="https://scholar.google.com/citations?user=et4jCA4AAAAJ" target="_blank">
+<a href="https://scholar.google.com/citations?user=tjH_pzcAAAAJ&" target="_blank">
   <img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
 </a>
 
